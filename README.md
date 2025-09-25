@@ -7,4 +7,4 @@
 ## Gems
 - view_component
 - rack_attack
-- ahoy.DS_Store
+- ahoy
