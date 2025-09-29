@@ -5,8 +5,11 @@
 - [SolidCable on development](https://github.com/rails/solid_cable)
 - Production DB initialization in `db/production.sql`
 - Live Tailwind rebuild in Puma
+- Add .DS_Store to `.gitignore`
 
 ## Gems
 - view_component
-- rack_attack
+- rack-attack
 - ahoy
+- dotenv
+- rubocop
